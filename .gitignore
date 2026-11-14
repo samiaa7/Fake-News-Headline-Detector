@@ -1,4 +1,3 @@
-# Raw dataset (too large for GitHub) - keep the folder, ignore the files
 data/raw/*
 !data/raw/.gitkeep
 
