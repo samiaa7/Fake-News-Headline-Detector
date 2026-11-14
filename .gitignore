@@ -1,1 +1,18 @@
+# Raw dataset (too large for GitHub) - keep the folder, ignore the files
+data/raw/*
+!data/raw/.gitkeep
 
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
