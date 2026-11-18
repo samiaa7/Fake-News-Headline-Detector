@@ -1,0 +1,4 @@
+﻿,Accuracy,Precision (fake),Recall (fake),F1 (fake),Log-loss
+Baseline,0.5377,0.0,0.0,0.0,16.6645
+Naive Bayes,0.9398,0.9263,0.945,0.9355,0.1617
+Logistic regression,0.9455,0.9413,0.9408,0.941,0.1456
